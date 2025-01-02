@@ -7,7 +7,7 @@
     "create-npms-dev": "node create-npms.js --dev"
   },
   "dependencies": {
-    "command-line-args": "^5.1.1",
+    "command-line-args": "^6.0.1",
     "request": "^2.88.0",
     "tar": "^4.4.8",
     "shelljs": "^0.8.3"
